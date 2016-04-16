@@ -1,0 +1,78 @@
+/*Copyright Code-it Creations */
+/* ############################################################################ Reset CSS */
+
+html, body, div, span, applet, object, iframe, table, caption, tbody, tfoot, thead, tr, th, td, 
+del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, 
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, 
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
+border: 0 none;
+margin:0;
+padding:0;
+outline: 0;
+font-size: 100%;
+font-style: inherit;
+font-weight: inherit;
+font-family: inherit;
+vertical-align: baseline;
+}
+
+body {
+line-height: 1;
+background: #fff;
+color: #000;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+ content: "";
+ }
+
+blockquote, q { 
+quotes: "" "";
+}
+
+a,img,a img,iframe,form,fieldset,abbr,acronym,object,applet {
+border: none;
+}
+
+ul,ol,dl,li,dt,dd dir,menu {
+list-style: none;
+}
+
+q {
+quotes:"" ""
+}
+
+:focus {
+outline: 0;
+} 
+
+hr { display: none; }
+
+table {
+border-collapse: separate;
+border-spacing: 0;
+}
+
+caption, th, td {
+text-align: left;
+font-weight: normal;
+} 
+
+code,kbd,samp,pre,tt,var,textarea,input,select,isindex {
+font: inherit;
+font-size: 10px;
+}
+
+dfn,i,cite,var,address,em {
+font-style: normal;
+}
+
+th,b,strong,h1,h2,h3,h4,h5,h6 {
+font-weight: 400;
+}
+
+sub,sup {
+vertical-align: baseline;
+}
+
+/* ############################################################################ End Reset CSS */
