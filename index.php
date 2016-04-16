@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	<?php include('inc/head.php'); ?>
+	<body>	
+		
+		<div id='pre-load'>
+			<img src='images/home_nav.png' alt='' />	
+			<img src='images/home_nav_hov.png' alt='' />	
+			<img src='images/port_nav.png' alt='' />	
+			<img src='images/port_nav_hov.png' alt='' />	
+			<img src='images/about_nav.png' alt='' />	
+			<img src='images/about_nav_hov.png' alt='' />
+			<img src='images/contact_nav.png' alt='' />	
+			<img src='images/contact_nav_hov.png' alt='' />	
+			<img src='images/top.png' alt='' />	
+			<img src='images/top_hov.png' alt='' />	
+		</div><!-- E_pre-load -->	
+		
+		<div class='introduce-extend'></div>
+		
+		<a name='top'></a>
+		
+		<div class='wrapper'>
+			<div class='wrapper-sub'>		
+				<div class='container'>
+					<div class='head'>
+						<div class='logo'></div>
+						
+						<ul class='nav'>
+							<li><a class='home' href='index.php'></a></li>
+							<li><a class='port' href='#port'></a></li>
+							<li><a class='about' href='#about'></a></li>
+							<li><a class='contact' href='#contact'></a></li>
+						</ul><!-- E_nav -->
+					</div><!-- E_head -->
+					
+					<div class='layer'>
+						<div class='intro'>
+								
+						</div><!-- E_intro -->
+						
+						<div id='slider-wrap'>
+							<div id='slider'>
+								<a href='www.go.com'><img src="images/comments.jpg" alt="" /></a>
+								<img src="images/whistle.jpg" alt="" />
+								<img src="images/codeit.jpg" alt="" />
+							</div><!-- E_slider-->
+						</div><!-- E_slider-wrap -->
+					</div><!-- E_layer -->
+		
+					<div class='title work'>
+						<div class='text'></div>
+					</div>
+								
+					<div class='layer'>
+						<a name='port'></a>
+
+						<div class='site'>
+							<div class='site-left'></div>
+							<div class='site-middle'>
+								<a rel='external' href='http://www.codeitcreations.com'><img src='images/codeit_2.png' alt='' /></a>
+								<a rel='external' href='http://www.codeitcreations.com'><img src='images/codeit_1.png' alt='' /></a>
+								<div class='site-txt'>
+									This is my personal business site, which I developed from the ground up. Code-it Creations display many examples of my work, which are not displayed here. On this site, I used many web technologies, including a lot of client-side scripting. Each of these examples contains a link to the site below the description. 
+								</div><!-- E_site-txt -->
+								<div class='bar'>
+									<div class='bar-left'></div>
+										<div class='bar-middle'>
+											Site: <a href='http://www.codeitcreations.com'>Code-it Creations</a><span>.</span> Technologies: <span>XTHML, CSS, custom PHP, jQuery.</span>
+										</div><!-- E_bar-middle -->
+									<div class='bar-right'></div>
+								</div><!-- E_bar -->
+							</div><!-- E_site-middle -->
+							<div class='site-right'></div>
+						</div><!-- E_site -->
+							
+						<div class='site'>
+							<div class='site-left'></div>
+							<div class='site-middle'>
+								<a rel='external' href='http://www.commentsandcapers.com'><img src='images/comments_1.png' alt='' /></a>
+								<a rel='external' href='http://www.commentsandcapers.com'><img src='images/comments_2.png' alt='' /></a>
+								<div class='site-txt'>
+									This is a personal site, developed for a local client. This site houses her personal devotionsand blog. Due to it's blog based layout, this site is developed with Wordpress, using this custom design that I created from scratch. In addition to its wordpress backend, there is other custom PHP code implemented here. 
+								</div><!-- E_site-txt -->
+								<div class='bar'>
+									<div class='bar-left'></div>
+										<div class='bar-middle'>
+											Site: <a href='http://www.commentsandcapers.com'>Comments &amp; Capers</a><span>.</span> Technologies: <span>XTHML, CSS, custom PHP, Wordpress.</span>
+										</div><!-- E_bar-middle -->
+									<div class='bar-right'></div>
+								</div><!-- E_bar -->
+							</div><!-- E_site-middle -->
+							<div class='site-right'></div>
+						</div><!-- E_site -->
+						
+						<div class='site'>
+							<div class='site-left'></div>
+							<div class='site-middle'>
+								<a rel='external' href='http://www.thewhistlestopinn.com'><img src='images/whistle_1.png' alt='' /></a>
+								<a rel='external' href='http://www.thewhistlestopinn.com'><img src='images/whistle_2.png' alt='' /></a>
+								<div class='site-txt'>
+									This is a personal business site that I developed for a cottage business near Chattanooga Tennesssee. This site houses pretty standard code. With the goal of being self-maintainable, this site is built on top of Concrete5. I developed this site from a high quality template design, optimizing the images for this particular site. 
+								</div><!-- E_site-txt -->
+								<div class='bar'>
+									<div class='bar-left'></div>
+										<div class='bar-middle'>
+											Site: <a href='http://www.thewhistlestopinn.com'>The Whistle Stop Inn</a><span>.</span> Technologies: <span>XTHML, CSS, custom PHP, Wordpress.</span>
+										</div><!-- E_bar-middle -->
+									<div class='bar-right'></div>
+								</div><!-- E_bar -->
+							</div><!-- E_site-middle -->
+							<div class='site-right'></div>
+						</div><!-- E_site -->
+						
+					</div><!-- E_layer -->
+						
+		
+						<div class='title introduce'>
+							<div class='text'></div>
+						</div>
+						
+							<a name='about'></a>
+							<div class='about'>
+								<div class='about-left'></div>
+									<div class='middle'>
+										<h3>About Me</h3>
+										<p>If you can't guess, my name is Josh Young, and I have been developing web sites and programming web back-ends for about five years now. I am always striving to build sites that I can be proud of, and learning about new technologies along the way. If I like how a site is beginning to form half way through, <img class='left mr10' src='images/josh.jpg' alt='Josh Young' /> I have been known to start a project over from scratch.</p>
+										
+										<p>Since PHP is my scripting language of choice, I usually, implement it in my development. Recently, I have been doing a lot of experimenting with different content management systems, and utilizing a lot of jQuery. Most of the sites that I have developed so far were designed with Photoshop and then built-out with CSS and HTML. Web development is what I love to do, if you can't tell. It is very rewarding to create a site, that did not even exist before. On that note, I am very serious about web standards and clean code, and I will go to great lengths to insure that I am developing the cleanest code possible. I like
+										to optimize all of my code and image, so that my pages load as fast as possible; however, there is a fine line here. When code is compressed and optimized
+										too much it can hamper the ability to make changes to a site's code.
+										</p>
+									</div><!-- E_middle -->
+								<div class='about-right'></div>				
+							</div><!-- E_about -->
+						
+					<div class='title more-about'>
+						<div class='text'></div>
+					</div>
+						
+							<div class='more'>
+								<div class='one'>
+									<div class='one-left'></div>
+									<div class='one-middle'>
+										<h3 >Technologies</h3>
+										<ul class='tech'>
+											<li>XHTML</li>
+											<li>PHP</li>
+											<li>ASP.NET</li>
+											<li>MySQL</li>
+											<li>SQL Server</li>
+											<li>Oracle</li>
+											<li>C#</li>
+											<li>VB Script</li>
+											<li>WordPress</li>
+											<li>Modx</li>
+											<li>Concret5</li>
+											<li>XML</li>
+											<li>javaScript</li>
+											<li>jQuery</li>
+											<li>Photoshop</li>
+											<li>Gimp</li>
+											<li>Batch Scripting</li>
+											<li>Bash Scripting</li>
+										</ul>
+
+																					
+										<h3>Hobbies</h3>
+										<p>When I am not developing web sites, I am usually working on various personal scripting projects, or playing my harmonica :) If you have a site, that needs some touching up, or just want a site for your personal business, let me know. I will do my very best to build something that fits your needs perfectly. Have a great day!</p>
+									</div><!-- E_one-middle -->
+									<div class='one-right'></div>
+								</div><!-- E_one -->
+								
+								<div class='two'>	
+									<div class='two-left'></div>
+									<div class='two-middle'>
+										<h3>Current Research</h3>
+										<p>
+										Recently, I have been researching content management systems, striving to find the best CMS for the small to medium size web sites that I develop. Actually, Concrete5 seems to be pretty powerful, and more unique than most.
+										</p>
+										
+										<p>
+										While I believe Concrete5 has its strong points, I will continue to use WordPress for many of my smaller sites. WordPress is especially great when your site is based around a blog layout. There are a few proprietary options out there, but for most of my work, it is more economical to settle for a CMS that is open source. However, my research will continue...
+										</p>
+									</div><!-- E_two-middle -->
+									<div class='two-right'></div>
+								</div><!-- E_two -->
+
+							</div><!-- E_more -->	
+	
+						<div class='title personal'>
+							<div class='text'></div>
+						</div>
+						
+							<div class='title help clearl'>
+								<div class='text'></div>
+							</div>
+						
+							<div class='tip clearl'>
+								<div class='tip-left'></div>
+									<div class='tip-middle'>
+										"Most people make the mistake of thinking design is what it looks like. People think it's this veneer - that the designers are handed this box and told, 'Make it look good!'... Design is how it works." - Steve Jobs
+									</div><!-- E_middle -->
+								<div class='tip-right'></div>	
+							</div><!-- E_tip -->
+
+						
+							<div class='resources'>
+								<div class='rec-inner'>
+									<h3>Programming Resources:</h3>
+									<ul>
+										<li><a rel='external' href='http://www.devshed.com/'>Dev Shed Forums</a></li>
+										<li><a rel='external' href='http://www.cssdrive.com/'>CSS Drive</a></li>
+										<li><a rel='external' href='http://net.tutsplus.com/'>Net Tuts+</a></li>
+										<li><a rel='external' href='http://www.smashingmagazine.com/'>Smashing Magazine</a></li>
+									</ul>
+								</div><!-- E_rec-inner -->
+								<div class='rec-inner'>
+									<h3>Creative Designs:</h3>
+									<ul>
+										<li><a rel='external' href='http://www.howarths.nl/'>Howarths</a></li>
+										<li><a rel='external' href='http://www.mooyouwin.ca/'>Moo You Win</a></li>
+										<li><a rel='external' href='http://www.alexcohaniuc.com/'>Alexandra Cohaniuc</a></li>
+										<li><a rel='external' href='http://solidgiant.com/'>Solid Giant</a></li>
+									</ul>
+								</div><!-- rec-inner -->
+							</div><!-- E_resources -->
+
+						
+						<div class='title reach clearl'>
+							<div class='text'></div>
+						</div>
+						
+						<div class='footer'>
+							<div class='fleft'></div>
+							<div class='footer-inner'>
+								<a class='follow' href=''>Follow Me</a>
+								<a name='contact'></a>	
+										<div class='twitter'>
+											<h4>What I am Saying</h4>
+												<div class='twitter-left'></div>
+												<div class='twitter-inner'>
+													Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. dfesf defsefef efef
+												</div><!-- E_twitter-inner -->
+												<div class='twitter-right'></div>
+										</div><!-- E_twitter -->
+								<ul class='contact'>
+									<li class='top'><a href=''>josh@codeitcreations.com</a></li>
+									<li><a href='http://www.codeitcreations.com/'>Code-it Creations</a></li>
+									<li><span>567-482-0661</span></li>
+								</ul><!-- E_contact -->
+								<a class='top' href='#top'>Top</a>
+							</div><!-- E_footer-inner -->
+							<div class='fright'></div>
+						</div><!-- E_footer -->
+	
+				</div><!-- E_container -->
+			
+			<div class='clear'></div>
+			</div><!-- E_wrapper-sub -->
+		</div><!-- E_wrapper -->
+	</body>
+</html>
