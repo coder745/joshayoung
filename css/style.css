@@ -111,6 +111,10 @@ body {
 	bottom: 0;
 	right: 0;
 }
+	a.copyright {
+		color: $fff;
+		text-decoration: none;
+	}
 
 .head {
 	overflow: hidden;
