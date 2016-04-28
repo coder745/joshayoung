@@ -25,7 +25,7 @@ img.left { border: solid 2px #19344d; }
 .col { width: 50% }
 .clearl { clear: left !important; }
 .clearr { clear: right !important; }
-.clear { clear: both !important; } 
+.clear { clear: both !important; }
 
 p { margin-bottom: 10px }
 h3 { font-size: 20px; margin-bottom: 10px; }
@@ -42,7 +42,7 @@ h4 { font-size: 16px; margin-bottom: 10px; }
 a.top {
 	position: absolute;
 	bottom: -10px;
-	left: 168px;	
+	left: 168px;
 	background: url('../images/top.png') no-repeat;
 	width: 64px;
 	height: 32px;
@@ -52,15 +52,15 @@ a.top {
 	padding-left: 19px;
 }
 	a.top:hover {
-		background: url('../images/top_hov.png') no-repeat;	
+		background: url('../images/top_hov.png') no-repeat;
 	}
 
 html {
-	height: 100%;	
+	height: 100%;
 }
 
-body { 
-	font-size: 14px;	
+body {
+	font-size: 14px;
 	background: #211E1E;
 	background: url('../images/bck.jpg');
 	text-align: center;
@@ -72,7 +72,7 @@ body {
 }
 
 #pre-load {
-	display: none !important;	
+	display: none !important;
 }
 
 	.introduce-extend {
@@ -84,7 +84,7 @@ body {
 	}
 
 .preload {
-	display: none !important;	
+	display: none !important;
 }
 
 .wrapper {
@@ -106,20 +106,26 @@ body {
 	padding-left: 10px;
 }
 
+.copyright {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
 .head {
-	overflow: hidden;	
+	overflow: hidden;
 	height: 187px;
 }
 
 	.logo {
 		position: absolute;
 		top: 0;
-		left: 10px;	
+		left: 10px;
 		background: url('../images/logo.png') no-repeat;
 		width: 331px;
 		height: 155px;
 	}
-	
+
 	ul.nav {
 		float: right;
 	}
@@ -128,7 +134,7 @@ body {
 		}
 			ul.nav li a {
 				color: #D8D8D8;
-				display: block;	
+				display: block;
 				margin-right: 20px;
 			}
 				ul.nav li a.home {
@@ -140,7 +146,7 @@ body {
 					ul.nav li a.home:hover {
 						background: url('../images/home_nav_hov.png') no-repeat;
 					}
-					
+
 				ul.nav li a.port {
 					background: url('../images/port_nav.png') no-repeat;
 					width: 126px;
@@ -178,29 +184,29 @@ body {
 }
 	.title.work {
 		width: 177px;
-		background: url('../images/title_work.png') repeat-x;	
+		background: url('../images/title_work.png') repeat-x;
 	}
 	.title.introduce {
-		width: 311px;	
-		background: url('../images/about.png') repeat-x;	
+		width: 311px;
+		background: url('../images/about.png') repeat-x;
 	}
 	.title.more-about {
-		width: 200px;	
-		background: url('../images/more_about.png') repeat-x;	
+		width: 200px;
+		background: url('../images/more_about.png') repeat-x;
 	}
 	.title.personal {
 		width: 768px;
-		background: url('../images/personal.png') repeat-x;	
+		background: url('../images/personal.png') repeat-x;
 		margin-top: 50px;
 	}
 	.title.help {
 		width: 185px;
-		background: url('../images/help.png') repeat-x;	
+		background: url('../images/help.png') repeat-x;
 		margin-top: 54px;
 	}
 	.title.reach {
 		width: 205px;
-		background: url('../images/reach.png') repeat-x;	
+		background: url('../images/reach.png') repeat-x;
 	}
 	.title .text {
 		height: 14px;
@@ -208,32 +214,32 @@ body {
 		margin-left: 40px;
 	}
 		.title.work .text {
-			background: url('../images/work.png') no-repeat;	
-			width: 123px;	
+			background: url('../images/work.png') no-repeat;
+			width: 123px;
 		}
 		.title.introduce .text {
-			background: url('../images/introduce.png') no-repeat;	
+			background: url('../images/introduce.png') no-repeat;
 			width: 252px;
 		}
 		.title.more-about .text {
-			background: url('../images/more_text.png') no-repeat;	
+			background: url('../images/more_text.png') no-repeat;
 			width: 146px;
 		}
 		.title.personal .text {
-			background: url('../images/personal_txt.png') no-repeat;	
+			background: url('../images/personal_txt.png') no-repeat;
 			width: 199px;
 			margin-left: 553px;
 		}
 		.title.help .text {
-			background: url('../images/help_txt.png') no-repeat;	
+			background: url('../images/help_txt.png') no-repeat;
 			width: 102px;
 			margin-left: 67px;
 		}
 		.title.reach .text {
-			background: url('../images/reach_txt.png') no-repeat;	
+			background: url('../images/reach_txt.png') no-repeat;
 			width: 162px;
 		}
-		
+
 .layer {
 	float: left;
 	margin: 20px 0;
@@ -246,9 +252,9 @@ body {
 		float: left;
 		margin-right: 18px;
 	}
-	
+
 	#slider-wrap {
-		float: right;	
+		float: right;
 		background: url('../images/slider.jpg') no-repeat;
 		width: 565px;
 		height: 312px;
@@ -274,28 +280,28 @@ body {
 
 	.site {
 		width: 959px;
-		height: 262px;	
+		height: 262px;
 		float: left;
 		position: relative;
 		margin-bottom: 20px;
 	}
 		.site.last {
-			margin-bottom: 0;	
+			margin-bottom: 0;
 		}
 		.site .site-left {
-			background: url('../images/site_left.png') no-repeat;	
+			background: url('../images/site_left.png') no-repeat;
 			width: 11px;
 			height: 262px;
 			float: left;
 		}
 		.site .site-middle {
-			background: url('../images/site_middle.png') repeat-x;	
+			background: url('../images/site_middle.png') repeat-x;
 			height: 262px;
 			float: left;
 			width: 926px;
 		}
 		.site .site-right {
-			background: url('../images/site_right.png') no-repeat;	
+			background: url('../images/site_right.png') no-repeat;
 			width: 10px;
 			height: 262px;
 			float: left;
@@ -315,7 +321,7 @@ body {
 			    rgb(30,78,120) 4%,
 			    rgb(30,43,56) 57%
 			);
-			padding: 6px;	
+			padding: 6px;
 			float: left;
 			margin: 19px 5px 0 0;
 		}
@@ -345,35 +351,35 @@ body {
 			.bar .bar-left {
 				background: url('../images/bar_left.png') no-repeat;
 				width: 8px;
-				height: 33px; 	
+				height: 33px;
 				float: left;
 			}
 			.bar .bar-middle {
 				background: url('../images/bar_middle.png') repeat-x;
 				width: 657px;
 				height: 33px;
-				float: left; 	
+				float: left;
 				padding-top: 9px;
-				color: #2B6EC7; 
+				color: #2B6EC7;
 				font-weight: bold;
 			}
 				.bar-middle a {
 					text-decoration: none;
-					color: #fff;	
+					color: #fff;
 					font-weight: normal;
 				}
 					.bar-middle a:hover {
 						text-decoration: underline;
 					}
 				.bar-middle span {
-					color: #fff;	
+					color: #fff;
 					font-weight: normal;s
 				}
 			.bar .bar-right {
 				background: url('../images/bar_right.png') no-repeat;
 				width: 9px;
 				height: 33px;
-				float: left; 	
+				float: left;
 			}
 		.site .site-txt {
 			float: right;
@@ -384,24 +390,24 @@ body {
 		}
 
 .side {
-	float: left;	
+	float: left;
 	width: 413px;
 	margin-top: 20px;
 }
 	.side.wider {
-		width: 535px;	
+		width: 535px;
 	}
 
 	.about {
 		width: 100%;
-		height: 297px;	
+		height: 297px;
 		float: left;
 		margin-bottom: 40px;
 		margin-top: 10px;
 	}
 		.about h3 {
 			font-family: 'FertigoProRegular';
-			background: url('../images/underline.png') repeat-x bottom left;	
+			background: url('../images/underline.png') repeat-x bottom left;
 		}
 		.about .about-left {
 			background: url('../images/about_left.png') no-repeat;
@@ -424,12 +430,12 @@ body {
 			float: left;
 			width: 10px;
 		}
-	
+
 .help-wrap {
 	float: left;
 	margin-top: 100px;
 }
-		
+
 	.tip {
 		float: left;
 		height: 124px;
@@ -439,7 +445,7 @@ body {
 	}
 		.tip .tip-left {
 			background: url('../images/tip_left.png') no-repeat;
-			width: 10px;	
+			width: 10px;
 			float: left;
 			height: 124px;
 		}
@@ -457,8 +463,8 @@ body {
 			height: 124px;
 			float: left;
 		}
-		
-	.resources {	
+
+	.resources {
 		width: 449px;
 		float: right;
 		height: 143px;
@@ -469,26 +475,26 @@ body {
 		.resources .rec-inner {
 			margin-right: 10px;
 			float: left;
-			background: #07131E;	
+			background: #07131E;
 			padding: 10px;
 			border: solid 1px #181717;
 		}
 		.resources h3 {
 			font-family: 'FertigoProRegular';
 		}
-		.resources ul {	
+		.resources ul {
 			height: 109px;
 			float: left;
 		}
-			.resources ul li {	
+			.resources ul li {
 			}
 				.resources ul li a {
 					display: block;
 					text-decoration: none;
 					padding: 6px 6px 6px 12px;
-					color: #D8D8D8;	
+					color: #D8D8D8;
 				}
-		
+
 	.more {
 		float: left;
 		width: 1000px;
@@ -496,14 +502,14 @@ body {
 		margin-top: 20px;
 	}
 		.more .one {
-			float: left;	
+			float: left;
 			height: 364px;
 			width: 501px;
 			margin-right: 30px;
 		}
 			.one .one-left {
 				background: url('../images/tech_left.png') no-repeat;
-				width: 12px;	
+				width: 12px;
 				height: 100%;
 				float: left;
 			}
@@ -516,18 +522,18 @@ body {
 			}
 			.one .one-right {
 				background: url('../images/tech_right.png') no-repeat;
-				width: 11px;	
+				width: 11px;
 				height: 100%;
 				float: left;
 			}
 		.more .two {
 			height: 362px;
 			width: 460px;
-			float: left;	
+			float: left;
 		}
 			.two .two-left {
 				background: url('../images/current_left.png') no-repeat;
-				width: 12px;	
+				width: 12px;
 				height: 100%;
 				float: left;
 			}
@@ -540,11 +546,11 @@ body {
 			}
 			.two .two-right {
 				background: url('../images/current_right.png') no-repeat;
-				width: 11px;	
+				width: 11px;
 				height: 100%;
 				float: left;
 			}
-			
+
 		.more h3 {
 			font-family: 'FertigoProRegular';
 			background: url('../images/underline.png') repeat-x bottom left;
@@ -556,14 +562,14 @@ body {
 		}
 			.more ul.tech li {
 				float: left;
-				padding-left: 21px;	
+				padding-left: 21px;
 				padding-bottom: 8px;
 			}
 			.more .bottom h4 {
 				font-family: 'FertigoProRegular';
 			}
 			.more .bottom p {
-				font-size: 10px;	
+				font-size: 10px;
 				color: #4f4e4e;
 			}
 			.more .bottom a {
@@ -571,9 +577,9 @@ body {
 				text-decoration: none;
 				color: #34373B;
 				font-weight: bold;
-			}	
+			}
 				.more .bottom a:hover {
-					color: #fff;	
+					color: #fff;
 				}
 
 	.footer {
@@ -592,7 +598,7 @@ body {
 			background: url('../images/footer_left.png') no-repeat;
 			height: 127px;
 			float: left;
-			width: 11px;		
+			width: 11px;
 		}
 		.footer .fright {
 			background: url('../images/footer_right.png') no-repeat;
@@ -600,19 +606,19 @@ body {
 			float: left;
 			width: 9px;
 			position: relative;
-			top: 1px;		
+			top: 1px;
 		}
 		.footer a.follow {
 			position: absolute;
 			bottom: 10px;
-			right: 9px;	
+			right: 9px;
 			font-size: 12px;
 			color: #fff;
 			text-decoration: none;
 			bottom: 16px;
 		}
 			a.follow:hover {
-				color: #0F538D;	
+				color: #0F538D;
 			}
 		.footer .twitter {
 			float: right;
@@ -650,8 +656,8 @@ body {
 						text-decoration: none;
 						color: #fff;
 						font-size: 16px;
-						line-height: 1.5;	
+						line-height: 1.5;
 					}
 						ul.contact li a:hover {
-							color: #0F538D;	
+							color: #0F538D;
 						}
