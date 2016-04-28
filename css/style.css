@@ -616,6 +616,7 @@ body {
 			color: #fff;
 			text-decoration: none;
 			bottom: 16px;
+			display: none;
 		}
 			a.follow:hover {
 				color: #0F538D;
